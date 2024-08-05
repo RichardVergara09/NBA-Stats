@@ -1,0 +1,273 @@
+[
+    {
+      "team_id": "003",
+      "name": "Miami Heat",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-03",
+          "opponent": "Boston Celtics",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-06",
+          "opponent": "New Orleans Pelicans",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-09",
+          "opponent": "Houston Rockets",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-12",
+          "opponent": "Phoenix Suns",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "004",
+      "name": "Boston Celtics",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-03",
+          "opponent": "Miami Heat",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-07",
+          "opponent": "Atlanta Hawks",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-10",
+          "opponent": "Charlotte Hornets",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-14",
+          "opponent": "Indiana Pacers",
+          "location": "Home"
+        }
+      ]
+    },
+    {
+      "team_id": "005",
+      "name": "Houston Rockets",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-04",
+          "opponent": "Dallas Mavericks",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-08",
+          "opponent": "Sacramento Kings",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-12",
+          "opponent": "New Orleans Pelicans",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-16",
+          "opponent": "Denver Nuggets",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "006",
+      "name": "Chicago Bulls",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-05",
+          "opponent": "New York Knicks",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-09",
+          "opponent": "Cleveland Cavaliers",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-13",
+          "opponent": "Detroit Pistons",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-17",
+          "opponent": "Milwaukee Bucks",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "007",
+      "name": "Philadelphia 76ers",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-06",
+          "opponent": "Toronto Raptors",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-10",
+          "opponent": "Brooklyn Nets",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-14",
+          "opponent": "Washington Wizards",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-18",
+          "opponent": "Boston Celtics",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "008",
+      "name": "Denver Nuggets",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-07",
+          "opponent": "Utah Jazz",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-11",
+          "opponent": "Los Angeles Clippers",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-15",
+          "opponent": "Phoenix Suns",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-19",
+          "opponent": "Golden State Warriors",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "009",
+      "name": "Phoenix Suns",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-08",
+          "opponent": "Portland Trail Blazers",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-12",
+          "opponent": "Miami Heat",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-16",
+          "opponent": "Houston Rockets",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-20",
+          "opponent": "Los Angeles Lakers",
+          "location": "Home"
+        }
+      ]
+    },
+    {
+      "team_id": "010",
+      "name": "San Antonio Spurs",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-09",
+          "opponent": "Minnesota Timberwolves",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-13",
+          "opponent": "Dallas Mavericks",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-17",
+          "opponent": "Houston Rockets",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-21",
+          "opponent": "Golden State Warriors",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "011",
+      "name": "Indiana Pacers",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-10",
+          "opponent": "Cleveland Cavaliers",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-14",
+          "opponent": "Boston Celtics",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-18",
+          "opponent": "New York Knicks",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-22",
+          "opponent": "Brooklyn Nets",
+          "location": "Away"
+        }
+      ]
+    },
+    {
+      "team_id": "012",
+      "name": "Oklahoma City Thunder",
+      "season": "2023-2024",
+      "schedule": [
+        {
+          "date": "2023-12-11",
+          "opponent": "Memphis Grizzlies",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-15",
+          "opponent": "Utah Jazz",
+          "location": "Away"
+        },
+        {
+          "date": "2023-12-19",
+          "opponent": "Denver Nuggets",
+          "location": "Home"
+        },
+        {
+          "date": "2023-12-23",
+          "opponent": "San Antonio Spurs",
+          "location": "Away"
+        }
+      ]
+    }
+  ]
+  

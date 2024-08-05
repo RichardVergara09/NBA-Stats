@@ -1,0 +1,242 @@
+[
+  {
+    "team_id": "001",
+    "name": "Atlanta Hawks",
+    "city": "Atlanta",
+    "arena": "State Farm Arena",
+    "coach": "Nate McMillan",
+    "championships_won": 1
+  },
+  {
+    "team_id": "002",
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "arena": "TD Garden",
+    "coach": "Joe Mazzulla",
+    "championships_won": 17
+  },
+  {
+    "team_id": "003",
+    "name": "Brooklyn Nets",
+    "city": "Brooklyn",
+    "arena": "Barclays Center",
+    "coach": "Jacque Vaughn",
+    "championships_won": 0
+  },
+  {
+    "team_id": "004",
+    "name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "arena": "Spectrum Center",
+    "coach": "Steve Clifford",
+    "championships_won": 0
+  },
+  {
+    "team_id": "005",
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "arena": "United Center",
+    "coach": "Billy Donovan",
+    "championships_won": 6
+  },
+  {
+    "team_id": "006",
+    "name": "Cleveland Cavaliers",
+    "city": "Cleveland",
+    "arena": "Rocket Mortgage FieldHouse",
+    "coach": "J.B. Bickerstaff",
+    "championships_won": 1
+  },
+  {
+    "team_id": "007",
+    "name": "Dallas Mavericks",
+    "city": "Dallas",
+    "arena": "American Airlines Center",
+    "coach": "Jason Kidd",
+    "championships_won": 1
+  },
+  {
+    "team_id": "008",
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "arena": "Ball Arena",
+    "coach": "Michael Malone",
+    "championships_won": 1
+  },
+  {
+    "team_id": "009",
+    "name": "Detroit Pistons",
+    "city": "Detroit",
+    "arena": "Little Caesars Arena",
+    "coach": "Dwane Casey",
+    "championships_won": 3
+  },
+  {
+    "team_id": "010",
+    "name": "Golden State Warriors",
+    "city": "San Francisco",
+    "arena": "Chase Center",
+    "coach": "Steve Kerr",
+    "championships_won": 7
+  },
+  {
+    "team_id": "011",
+    "name": "Houston Rockets",
+    "city": "Houston",
+    "arena": "Toyota Center",
+    "coach": "Stephen Silas",
+    "championships_won": 2
+  },
+  {
+    "team_id": "012",
+    "name": "Indiana Pacers",
+    "city": "Indianapolis",
+    "arena": "Gainbridge Fieldhouse",
+    "coach": "Rick Carlisle",
+    "championships_won": 0
+  },
+  {
+    "team_id": "013",
+    "name": "Los Angeles Clippers",
+    "city": "Los Angeles",
+    "arena": "Crypto.com Arena",
+    "coach": "Tyronn Lue",
+    "championships_won": 0
+  },
+  {
+    "team_id": "014",
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "arena": "Crypto.com Arena",
+    "coach": "Darvin Ham",
+    "championships_won": 17
+  },
+  {
+    "team_id": "015",
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "arena": "FedExForum",
+    "coach": "Taylor Jenkins",
+    "championships_won": 0
+  },
+  {
+    "team_id": "016",
+    "name": "Miami Heat",
+    "city": "Miami",
+    "arena": "Kaseya Center",
+    "coach": "Erik Spoelstra",
+    "championships_won": 3
+  },
+  {
+    "team_id": "017",
+    "name": "Milwaukee Bucks",
+    "city": "Milwaukee",
+    "arena": "Fiserv Forum",
+    "coach": "Adrian Griffin",
+    "championships_won": 2
+  },
+  {
+    "team_id": "018",
+    "name": "Minnesota Timberwolves",
+    "city": "Minneapolis",
+    "arena": "Target Center",
+    "coach": "Chris Finch",
+    "championships_won": 0
+  },
+  {
+    "team_id": "019",
+    "name": "New Orleans Pelicans",
+    "city": "New Orleans",
+    "arena": "Smoothie King Center",
+    "coach": "Willie Green",
+    "championships_won": 0
+  },
+  {
+    "team_id": "020",
+    "name": "New York Knicks",
+    "city": "New York",
+    "arena": "Madison Square Garden",
+    "coach": "Tom Thibodeau",
+    "championships_won": 2
+  },
+  {
+    "team_id": "021",
+    "name": "Oklahoma City Thunder",
+    "city": "Oklahoma City",
+    "arena": "Paycom Center",
+    "coach": "Mark Daigneault",
+    "championships_won": 1
+  },
+  {
+    "team_id": "022",
+    "name": "Orlando Magic",
+    "city": "Orlando",
+    "arena": "Amway Center",
+    "coach": "Jamahl Mosley",
+    "championships_won": 0
+  },
+  {
+    "team_id": "023",
+    "name": "Philadelphia 76ers",
+    "city": "Philadelphia",
+    "arena": "Wells Fargo Center",
+    "coach": "Nick Nurse",
+    "championships_won": 3
+  },
+  {
+    "team_id": "024",
+    "name": "Phoenix Suns",
+    "city": "Phoenix",
+    "arena": "Footprint Center",
+    "coach": "Frank Vogel",
+    "championships_won": 0
+  },
+  {
+    "team_id": "025",
+    "name": "Portland Trail Blazers",
+    "city": "Portland",
+    "arena": "Moda Center",
+    "coach": "Chauncey Billups",
+    "championships_won": 1
+  },
+  {
+    "team_id": "026",
+    "name": "Sacramento Kings",
+    "city": "Sacramento",
+    "arena": "Golden 1 Center",
+    "coach": "Mike Brown",
+    "championships_won": 1
+  },
+  {
+    "team_id": "027",
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "arena": "AT&T Center",
+    "coach": "Gregg Popovich",
+    "championships_won": 5
+  },
+  {
+    "team_id": "028",
+    "name": "Toronto Raptors",
+    "city": "Toronto",
+    "arena": "Scotiabank Arena",
+    "coach": "Darko Rajaković",
+    "championships_won": 1
+  },
+  {
+    "team_id": "029",
+    "name": "Utah Jazz",
+    "city": "Salt Lake City",
+    "arena": "Vivint Arena",
+    "coach": "Will Hardy",
+    "championships_won": 0
+  },
+  {
+    "team_id": "030",
+    "name": "Washington Wizards",
+    "city": "Washington, D.C.",
+    "arena": "Capital One Arena",
+    "coach": "Wes Unseld Jr.",
+    "championships_won": 1
+  }
+]
