@@ -21,7 +21,8 @@ export default function TeamList() {
 
   return (
     <div className="team-list">
-      <h1 className="text-3xl mb-8 mt-8 text-red-500 flex flex-col items-center justify-center text-2xl">Teams</h1>
+      <h1 className="text-3xl mb-8 mt-8 flex flex-col items-center justify-center text-2xl">Teams</h1>
+      <h2 className="text-3xl mb-8 mt-8 text-blue-500 flex flex-col items-center justify-center text-xl">This page will show you basic information of the NBA teams.</h2>
       <ul>
         {teams.map((team) => (
           <Team 

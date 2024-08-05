@@ -1,6 +1,6 @@
 export default function Team({ team, onSelect, isSelected }) {
   return (
-    <div className={`cursor-pointer team mb-4 ${isSelected ? 'bg-yellow-900' : ''} flex flex-col items-center justify-center`}>
+    <div className={`cursor-pointer team mb-4 rounded-md w-full max-w-lg mx-auto ${isSelected ? 'bg-yellow-900' : ''} flex flex-col items-center justify-center`}>
       <h1 className="text-2xl mb-2" onClick={() => onSelect(team.name)}>Team: {team.name}</h1>
       <p className={`mb-2 cursor-pointer ${isSelected ? 'text-yellow-500' : ''}`} onClick={() => onSelect(team.city)}>
         City: {team.city}

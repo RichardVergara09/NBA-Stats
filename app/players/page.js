@@ -20,7 +20,8 @@ export default function PlayerList() {
 
   return (
     <div className="player-list">
-      <h1 className="text-3xl mb-8 mt-8 text-red-500 flex flex-col items-center justify-center text-3xl">Player Statistics</h1>
+      <h1 className="text-3xl mb-4 mt-8 flex flex-col items-center justify-center">Player Statistics</h1>
+      <h2 className="text-xl mb-8 mt-4 flex flex-col items-center justify-center">In this page, it shows the NBA players with the best stats in 2023-2024 season!</h2>
       <ul>
         {players.map((player) => (
           <Player 
